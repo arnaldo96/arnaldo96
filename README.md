@@ -1,4 +1,14 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/AXorq76Tg3Vte/giphy.gif" width="200">
+    <h1 align="center">¡Bienvenido(a) seas!</h1>
+    <p>¡Hola👋!Me llamo Arnaldo Monzón egresado de la carrera de Ciencia Política-UNMSM con afinidad a la tecnología💻 y al comportamiento político. Con el transcurso de mi aprendizaje estaré subiendo proyectos para la comunidad.</p>
+</div>
+
+<div id="badges" align="center">
+    <a href="https://twitter.com/arnaldo_visoor" target="_blank">
+        <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Farnaldo_visoor" alt="Twich Badge">
+    </a>
+</div>
 
 <!--
 **arnaldo96/arnaldo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
